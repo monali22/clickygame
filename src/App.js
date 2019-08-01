@@ -36,7 +36,7 @@ class App extends Component {
       this.setState({message:"You guessed Correctly"})
       }
       else{
-        
+        console.log("Ohhhh");
         if(this.state.topScore<this.state.Score){
           this.setState({topScore:this.state.Score})
         }
