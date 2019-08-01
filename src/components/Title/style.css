@@ -1,0 +1,16 @@
+.jumbotron{
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  color:white;
+  margin-bottom: 10px;
+  background-color: navy;
+}
+
+.correct{
+  color: green
+}
+
+.incorrect {
+  color: red
+}
